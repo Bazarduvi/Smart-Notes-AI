@@ -1,0 +1,6 @@
+{
+  "name": "Nikkei & Clima",
+  "description": "Suite personal con tablero bursátil del Nikkei, radar de precipitaciones, y sistema de notas rápidas por dictado de voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
